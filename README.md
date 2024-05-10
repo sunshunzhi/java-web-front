@@ -1,4 +1,4 @@
-本框架强制使用pnpm进行包管理，集成pinia、vue-router、axios、element-plus、typescript、scss，git提交标准化。
+前端基础框架，本框架强制使用pnpm进行包管理，集成pinia、vue-router、axios、element-plus、typescript、scss，git提交标准化。
 
 git提交规范：
 - 'feat':新特性、新功能
